@@ -1,0 +1,40 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    word-spacing: 0,4em;
+    line-height: 0cap;
+    
+
+}
+
+
+
+
+
+
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    }
+.navbar-default {
+    background-color:plum;
+    border-color: violet;
+    font-family: serif;
+    box-shadow:1px 1px 3px rgba(255, 255, 255, 0.5);
+    }
+.container {
+    padding: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: beige;
+    }
+.carousel-inner {
+    border-radius: 5px 5px 5px 5px;
+    border: 5px solid white;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+    }
+
+        
